@@ -1,6 +1,6 @@
 # Uber Price Prediction using Machine Learning
 
-![Uber Price Prediction]()
+![Uber Price Prediction](https://github.com/iamchaitanya7/Uber-Price-Prediction-ML/blob/main/uber-logo-map.jpg)
 
 This repository contains a machine learning project that focuses on predicting Uber ride prices. The goal of this project is to develop a model that can accurately estimate the price of an Uber ride based on various input features. This can be useful for both riders to estimate their trip costs and for Uber drivers to better understand potential earnings for different trips.
 
